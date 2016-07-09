@@ -3,6 +3,7 @@
 public class HelloWorld
 {
  public static void main(String [] args){
- System.out.print("Hello World,Info Passed on "+new Date());
+ System.out.print("Hello World,Info Passed on \t "+new Date());
+ 
  }
 }
